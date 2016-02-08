@@ -1,3 +1,4 @@
+//noinspection FunctionWithMoreThanThreeNegationsJS,FunctionWithMultipleReturnPointsJS,OverlyComplexFunctionJS,FunctionTooLongJS
 /**
  * filesize
  *
